@@ -21,9 +21,3 @@ export default {
   }
 };
 </script>
-
-<style>
-v-app {
-}
-</style>
-
